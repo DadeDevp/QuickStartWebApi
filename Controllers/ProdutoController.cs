@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using QuickStartWebApi.Interfaces;
 using QuickStartWebApi.Models;
-using QuickStartWebApi.Repositories;
 
 namespace QuickStartWebApi.Controllers
 {

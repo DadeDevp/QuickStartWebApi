@@ -2,6 +2,7 @@ using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Win32;
 using QuickStartWebApi.DBContext;
+using QuickStartWebApi.Interfaces;
 using QuickStartWebApi.Repositories;
 using System;
 using System.Text.Json.Serialization;

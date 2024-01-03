@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using QuickStartWebApi.Interfaces;
 using QuickStartWebApi.Models;
-using QuickStartWebApi.Repositories;
 using System.Threading.Tasks;
 
 namespace QuickStartWebApi.Controllers

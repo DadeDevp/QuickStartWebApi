@@ -1,4 +1,4 @@
-﻿namespace QuickStartWebApi.Repositories
+﻿namespace QuickStartWebApi.Interfaces
 {
     public interface IRepository<T> where T : class
     {

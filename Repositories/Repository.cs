@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using QuickStartWebApi.DBContext;
+using QuickStartWebApi.Interfaces;
 
 namespace QuickStartWebApi.Repositories
 {

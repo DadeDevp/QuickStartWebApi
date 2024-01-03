@@ -1,6 +1,6 @@
 ﻿using QuickStartWebApi.Models;
 
-namespace QuickStartWebApi.Repositories
+namespace QuickStartWebApi.Interfaces
 {
     public interface ICategoriaRepository : IRepository<Categoria>
     {
