@@ -5,6 +5,7 @@ namespace QuickStartWebApi.Models
 {
     public class Categoria
     {
+        //Entity Framework já reconhece o padrao "NomedaclasseID" como a chave primária, ou pode usar a data annotation [Key]
         public int CategoriaId { get; set; }
         public required string Nome { get; set; }
 

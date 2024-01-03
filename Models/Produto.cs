@@ -4,6 +4,7 @@ namespace QuickStartWebApi.Models
 {
     public class Produto
     {
+        //Entity Framework já reconhece o padrao "NomedaclasseID" como a chave primária, ou pode usar a data annotation [Key]
         public int ProdutoId { get; set; }
         public required string Nome { get; set; }
         public decimal Preco { get; set; }
