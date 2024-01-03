@@ -253,3 +253,4 @@ C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\QuickStartWebApi\QuickStartW
 C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\QuickStartWebApi\QuickStartWebApi\obj\Debug\net8.0\QuickStartWebApi.pdb
 C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\QuickStartWebApi\QuickStartWebApi\obj\Debug\net8.0\QuickStartWebApi.genruntimeconfig.cache
 C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\QuickStartWebApi\QuickStartWebApi\obj\Debug\net8.0\ref\QuickStartWebApi.dll
+C:\Users\David\Documents\0 - WORKSPACES\ws - dotnet\QuickStartWebApi\QuickStartWebApi\obj\Debug\net8.0\QuickStartWebApi.sourcelink.json
